@@ -1,2 +1,1 @@
-# CookieClickTest
-CookieClickerTest
+#ClickerGame
